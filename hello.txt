@@ -1,10 +1,10 @@
 git hello 222222
 git hello 333333
+git hello push
 git hello
 git hello
 git hello
 git hello
 git hello
 git hello
-git hello
-git hello
+git hello 
